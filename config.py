@@ -2,14 +2,12 @@
 CHAT_IDS = [
     -1003508437339,
     -1002944578653
-    -1003904871006
 ]
 
 # Duration (in seconds) for each chat_id before messages are auto-deleted
 ID_DUR = {
     -1003508437339: 140,   # in seconds
     -1002944578653: 180   # in seconds
-    -1003904871006: 140   # in seconds
     }
 
 # Telegram API credentials (replace with your own in private .env or config file)
